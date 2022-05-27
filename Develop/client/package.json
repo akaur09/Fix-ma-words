@@ -1,5 +1,5 @@
 {
-  "name": "jate",
+  "name": "fix-ma-words",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",

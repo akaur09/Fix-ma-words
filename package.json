@@ -12,9 +12,17 @@
     "client": "cd client && npm start",
     "heroku-prebuild": "npm install --dev"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akaur09/Fix-ma-words.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akaur09/Fix-ma-words/issues"
+  },
+  "homepage": "https://github.com/akaur09/Fix-ma-words#readme",
   "dependencies": {
     "express": "^4.17.1",
     "if-env": "^1.0.4"
@@ -22,6 +30,7 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4",
-    "webpack": "^5.69.1"
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
   }
 }
