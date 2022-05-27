@@ -1,0 +1,10 @@
+{
+  "name": "Just Anther Text Editor",
+  "short_name": "JATE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "text editor that can be used offline using Indexed Database",
+  "background_color": "#7eb4e2",
+  "theme_color": "#7eb4e2"
+}
