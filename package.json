@@ -9,8 +9,7 @@
     "server": "cd server node server.js --ignore client",
     "build": "cd client && npm run build",
     "install": "cd client && npm install",
-    "client": "cd client && npm start",
-    "heroku-postbuild": "webpack -p --config ./webpack.prod.config.js --progress"
+    "client": "cd client && npm start"
   },
   "repository": {
     "type": "git",
